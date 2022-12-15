@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Rachit Puri",
+  "author": "Pragya Nainwal",
   "license": "ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.13.4",
