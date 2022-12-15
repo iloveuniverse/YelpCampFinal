@@ -14,9 +14,6 @@ The Yelpcamp project is essentially a copy of the Yelp.com website, which only d
 - Full authentication and authorization has been implemented in this project. 
 - This website is strong enough to handle basic security vulnerabilities related to cross-site scripting (XSS) and mongo injection, as well as some more issues are handled by the "helmet" npm-package.
 - It has been deployed on heroku and can be accessed using the given link: https://radiant-harbor-59780.herokuapp.com/
-## Authors
-
-- [@RachitPuri](https://github.com/runtime-terror0304)
 
 
 ## Tech Stack
