@@ -32,38 +32,38 @@ The Yelpcamp project is essentially a copy of the Yelp.com website, which only d
 ## Screenshots
 
 ### Home page
-![Home page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1934).png?raw=true)
+![Home page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1934).png?raw=true)
 
 ### Index page
-![Index page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1936).png?raw=true)
+![Index page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1936).png?raw=true)
 
-![Index page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1937).png?raw=true)
+![Index page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1937).png?raw=true)
 
 ### Login page
-![Login page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1940).png?raw=true)
+![Login page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1940).png?raw=true)
 
 ### Details of a particular campground(without log-in)
-![Show page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1938).png?raw=true)
+![Show page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1938).png?raw=true)
 
 ### Details of a particular campground(with a user logged in)
-![Show page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1943).png?raw=true)
+![Show page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1943).png?raw=true)
 
 ### Register page
-![Register page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1946).png?raw=true)
+![Register page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1946).png?raw=true)
 
 ### New campground page (with client-side validations)
-![New page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1949).png?raw=true)
+![New page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1949).png?raw=true)
 
 ### Flash message after creating a new campground
-![Show page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1950).png?raw=true)
+![Show page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1950).png?raw=true)
 
 ### Edit campground page
-![Edit page](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1951).png?raw=true)
+![Edit page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1951).png?raw=true)
 
 ### Cluster map popup
-![Cluster map](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1952).png?raw=true)
+![Cluster map](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1952).png?raw=true)
 
 ### Server side validations (sending price as string)
-![Server validations](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1960).png?raw=true)
+![Server validations](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1960).png?raw=true)
 
-![Server validations](https://github.com/runtime-terror0304/YelpCampFinal/blob/main/screenshots/Screenshot%20(1961).png?raw=true)
+![Server validations](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1961).png?raw=true)
