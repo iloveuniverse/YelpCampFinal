@@ -17,17 +17,17 @@ The Yelpcamp project is essentially a copy of the Yelp.com website, which only d
 - It has been deployed on Render and can be accessed using the given link: https://yelpcamp-jlfe.onrender.com
 
 
-### Tech Stack
+  ### Tech Stack
 
-**Server:** Node.js, Express.js.
+  **Server:** Node.js, Express.js.
 
-**Server Responses:** EJS templates.
+  **Server Responses:** EJS templates.
 
-**Styling and appearance:** CSS and Bootstrap.
+  **Styling and appearance:** CSS and Bootstrap.
 
-**Database:** MongoDB, Mongoose, Mongo Atlas.
+  **Database:** MongoDB, Mongoose, Mongo Atlas.
 
-**APIs and Services used:** Cloudinary (for uploading images and getting their urls to be stored in mongo database), Mapbox (for geocoding the locations and displaying maps), Passport (for authentication), Render (for deployment). 
+  **APIs and Services used:** Cloudinary (for uploading images and getting their urls to be stored in mongo database), Mapbox (for geocoding the locations and displaying maps), Passport (for authentication), Render (for deployment). 
 
 
 ## 3. Input/Output and Screenshots of the interface
