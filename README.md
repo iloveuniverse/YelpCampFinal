@@ -30,7 +30,7 @@ The Yelpcamp project is essentially a copy of the Yelp.com website, which only d
 **APIs and Services used:** Cloudinary (for uploading images and getting their urls to be stored in mongo database), Mapbox (for geocoding the locations and displaying maps), Passport (for authentication), Render (for deployment). 
 
 
-## Screenshots
+## 3. Input/Output and Screenshots of the interface
 
 ### Home page
 ![Home page](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1934).png?raw=true)
@@ -68,3 +68,6 @@ The Yelpcamp project is essentially a copy of the Yelp.com website, which only d
 ![Server validations](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1960).png?raw=true)
 
 ![Server validations](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1961).png?raw=true)
+
+## 4. Live link
+https://yelpcamp-jlfe.onrender.com
