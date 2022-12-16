@@ -1,10 +1,11 @@
 
 # Yelpcamp
 
+## 1. Methodology
+![Methodology](https://github.com/iloveuniverse/YelpCampFinal/blob/main/screenshots/Screenshot%20(1962).png?raw=true)
+
+## 2. Description
 The Yelpcamp project is essentially a copy of the Yelp.com website, which only displays campgrounds.
-
-
-## Features
 
 - Any user can view all the campgrounds on this website without even logging in.
 - A user who has signed up or logged in can add new campgrounds and enter information about them, including their name, description, location, costs and Images.
@@ -16,7 +17,7 @@ The Yelpcamp project is essentially a copy of the Yelp.com website, which only d
 - It has been deployed on Render and can be accessed using the given link: https://yelpcamp-jlfe.onrender.com
 
 
-## Tech Stack
+### Tech Stack
 
 **Server:** Node.js, Express.js.
 
